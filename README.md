@@ -23,15 +23,24 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ## OUTPUT:
 ## WHOIS :
-![WhatsApp Image 2024-09-23 at 15 38 10_9f04dd8e](https://github.com/user-attachments/assets/5a3a834f-140d-4f8f-911c-053b5d3c8d6c)
+![image](https://github.com/user-attachments/assets/c7b88842-c2a3-4ccb-8f09-5a9d7732ece4)
+
+## Finding IP address:
+Ping command is available on Windows as well as on Linux OS. Following is the example to find out the IP address of saveetha.ac.in.
+![image](https://github.com/user-attachments/assets/95453a8f-9ef8-46db-a6ec-11de7d331642)
+
 ## IP2LOCATION:
-![WhatsApp Image 2024-09-23 at 15 43 07_0333503d](https://github.com/user-attachments/assets/9be7955b-3534-4b47-bd0d-089874b98fb2)
-## WEB ARCHIVE:
-![WhatsApp Image 2024-09-23 at 15 43 18_84e233fe](https://github.com/user-attachments/assets/367f5f4d-ac5b-4c48-9e01-948603b26514)
-## NMAP:
-![kali](https://github.com/user-attachments/assets/cc136691-8232-4feb-ae4e-2dc180cadcf5)
+![image](https://github.com/user-attachments/assets/1d394a3d-0fa8-4a26-bd63-c3d2666e66ab)
+
+## History of the website:
+![image](https://github.com/user-attachments/assets/0fc25930-97d2-4ffa-9cad-2c76a16d610e)
+
+## Webserver Fingerprinting:
+## Netcat
+
+
 ## WHATWEB:
-![kali2](https://github.com/user-attachments/assets/703f5c12-cd60-49b7-9a2f-e538889bc1d9)
+![image](https://github.com/user-attachments/assets/87e7e297-00cc-423a-a144-50d212029bfc)
 ## TRACEROUTE:
 
 
