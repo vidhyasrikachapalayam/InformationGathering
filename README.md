@@ -36,12 +36,12 @@ Ping command is available on Windows as well as on Linux OS. Following is the ex
 ![image](https://github.com/user-attachments/assets/0fc25930-97d2-4ffa-9cad-2c76a16d610e)
 
 ## Webserver Fingerprinting:
-## Netcat
+
 
 
 ## WHATWEB:
 ![image](https://github.com/user-attachments/assets/87e7e297-00cc-423a-a144-50d212029bfc)
-## TRACEROUTE:
+
 
 
 ## RESULT:
