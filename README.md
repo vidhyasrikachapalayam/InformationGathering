@@ -1,4 +1,7 @@
-# InformationGathering
+## Name:Vidhyasri .K
+## Reg.No.: 212222230170
+
+# EX N0 2 InformationGathering
 Information Gathering Techiques
 
 # To perform information gathering techniques
@@ -23,25 +26,31 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ## OUTPUT:
 ## WHOIS :
-![image](https://github.com/user-attachments/assets/c7b88842-c2a3-4ccb-8f09-5a9d7732ece4)
+![image](https://github.com/user-attachments/assets/30189870-90da-41b2-97ef-22cb432a944a)
 
-## Finding IP address:
-Ping command is available on Windows as well as on Linux OS. Following is the example to find out the IP address of saveetha.ac.in.
-![image](https://github.com/user-attachments/assets/95453a8f-9ef8-46db-a6ec-11de7d331642)
+## Ip2Location:
+![image](https://github.com/user-attachments/assets/a66a16e0-c228-447a-b699-d6b1fa2fa97d)
 
-## IP2LOCATION:
-![image](https://github.com/user-attachments/assets/1d394a3d-0fa8-4a26-bd63-c3d2666e66ab)
+## Ping:
+![image](https://github.com/user-attachments/assets/7fff2b3d-c6d2-4753-8c1d-e7f969c738b8)
 
-## History of the website:
-![image](https://github.com/user-attachments/assets/0fc25930-97d2-4ffa-9cad-2c76a16d610e)
+## Web Archive:
+![image](https://github.com/user-attachments/assets/e563e309-25f8-4ec2-9842-fbfee5de8627)
 
-## Webserver Fingerprinting:
-
-
+## Nmap:
+![image](https://github.com/user-attachments/assets/95b23a65-94c7-421a-ad84-713b73a22ef9)
 
 ## WHATWEB:
 ![image](https://github.com/user-attachments/assets/87e7e297-00cc-423a-a144-50d212029bfc)
 
+## ICMP Traceroute:
+![image](https://github.com/user-attachments/assets/e2eec38e-dca0-446c-944e-1ed5a8837430)
+
+## TCP Traceroute:
+![image](https://github.com/user-attachments/assets/781df1aa-4575-4e2c-8437-eb8b176c41c4)
+
+## UDP Traceroute:
+![image](https://github.com/user-attachments/assets/15fc7548-4e5c-4baa-b163-6062826dbc38)
 
 
 ## RESULT:
